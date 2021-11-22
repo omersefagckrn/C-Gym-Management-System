@@ -1,5 +1,3 @@
-# C++ Gym-Management-System
-
 ## Admin
 #### Müşteri ekler.
 #### Tüm Müşterileri görür.
